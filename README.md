@@ -24,7 +24,7 @@ Me chamo Giovani Menezes Santos, tenho 50 anos, tenho mais de 20 anos de experie
             alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        /></p>-->
+        /></p>
 <p>
     </a>
     <p><a href="https://github.com/Ryugms?tab=repositories&sort=stargazers">
@@ -41,7 +41,7 @@ Me chamo Giovani Menezes Santos, tenho 50 anos, tenho mais de 20 anos de experie
             src="https://custom-icon-badges.demolab.com/github/followers/Ryugms?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+</p>-->
 
 ---
 
