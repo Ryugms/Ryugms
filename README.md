@@ -9,7 +9,7 @@
 
 **`Estudante Gestão de Tecnologia da Informação`**
 
-Me chamo Giovani Menezes Santos, tenho 50 anos, tenho mais de 20 anos de experiencia profissional é na area desde a rede e sistemas fixa até a móveis de telecomunicações, trasmissão via par metálico, ondas de radio e fibra optica, equipamentos Modems, PDH, SDH, MUX, DWDM, Caixas Metro, ERBs do CDMA até o 5G, atualmente estou cursando Gestão da tecnologia da Infomação, estou em busca de ampliar area de meus conhecimentos, traveś da capacitação na aréa tecnológica que vem continuamente evoluindo.
+Olá! tenho mais de 20 anos de experiencia profissional é na area desde a rede e sistemas fixa até a móveis de telecomunicações, trasmissão via par metálico, ondas de radio e fibra optica, equipamentos Modems, PDH, SDH, MUX, DWDM, Caixas Metro, ERBs do CDMA até o 5G, atualmente estou cursando Gestão da tecnologia da Infomação, estou em busca de ampliar area de meus conhecimentos, traveś da capacitação na aréa tecnológica que vem continuamente evoluindo.
 <!--
 <p align="left">
     <a href="https://www.youtube.com/">
