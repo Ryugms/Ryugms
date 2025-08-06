@@ -10,6 +10,8 @@
 **`Estudante Gestão de Tecnologia da Informação`**
 
 Olá! tenho mais de 20 anos de experiencia profissional é na area desde a rede e sistemas fixa até a móveis de telecomunicações, trasmissão via par metálico, ondas de radio e fibra optica, equipamentos Modems, PDH, SDH, MUX, DWDM, Caixas Metro, ERBs do CDMA até o 5G, atualmente estou cursando Gestão da tecnologia da Infomação, estou em busca de ampliar area de meus conhecimentos, traveś da capacitação na aréa tecnológica que vem continuamente evoluindo.
+
+Busco expandir meus horizontes profissionais através da capacitação contínua e atualização nas mais recentes inovações tecnológicas, com o objetivo de contribuir de forma estratégica e eficiente em projetos que demandem experiência prática e visão de futuro.
 <!--
 <p align="left">
     <a href="https://www.youtube.com/">
