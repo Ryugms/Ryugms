@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT Management 
 - 🌱 I’m currently learning about Linux, Python and Cloud.
 - 💞️ I’m looking to collaborate on new 
-- 📫 How to reach me whatsapp 55(28)999226900
+- 📫 
 - 😄 Pronouns: He
 - 
 # 👩🏻‍💻 Giovani Menezes Santos
